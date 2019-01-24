@@ -1,5 +1,5 @@
-# 强化学习论文更新
+# 强化学习论文跟进
 
-## Imitation Learning
+## [**Imitation Learning**](https://github.com/PaperCommunity/Reinforcement-Learning/tree/master/ImitationLearning)
 
-## [Multi-Agent RL](https://github.com/PaperCommunity/Reinforcement-Learning/tree/master/Multi-Agent)
+## [**Multi-Agent RL**](https://github.com/PaperCommunity/Reinforcement-Learning/tree/master/Multi-Agent)
