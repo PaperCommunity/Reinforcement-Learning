@@ -7,3 +7,9 @@
   - supplements:
   [CSDN](https://blog.csdn.net/qiusuoxiaozi/article/details/79066612);
   [简书](https://www.jianshu.com/p/99a79cd08c72);[博客园](https://www.cnblogs.com/initial-h/p/9429632.html)
+
+# Dual_ur3 双臂机器人
+
+* 
+    - update: 2019.01.24
+    - author: ***
