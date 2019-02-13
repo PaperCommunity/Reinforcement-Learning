@@ -1,5 +1,5 @@
 ## 模仿学习
-
+---
 * [《Playing hard exploration games by watching YouTube》](https://github.com/PaperCommunity/Reinforcement-Learning/tree/master/ImitationLearning/Playing%20hard%20exploration%20games%20by%20watching%20YouTube)
 
   * **创建时间**: 2019.01.24
